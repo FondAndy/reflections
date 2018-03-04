@@ -24,3 +24,6 @@ using git diff
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 for trying new features creating branches would help not mess with main or master branch for demo
+
+How do the diagrams help you visualize the branch structure?
+we can reachable commits and track changes so far
