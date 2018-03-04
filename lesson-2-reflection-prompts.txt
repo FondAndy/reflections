@@ -27,3 +27,6 @@ for trying new features creating branches would help not mess with main or maste
 
 How do the diagrams help you visualize the branch structure?
 we can reachable commits and track changes so far
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+safely we can make experiment and have result collaborated without worrying
